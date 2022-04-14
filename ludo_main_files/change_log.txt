@@ -1,0 +1,45 @@
+Gradle TEAM
+gradlecode@outlook.com
+2019 (c)
+
+don't forget to rate us with stars, to keep new updates :)
+___________________________________________________________________
+
+version 2020_02_26 :
+====================
+- Added the support of Android Studio 3.6
+- Upgrade the gradle version.
+
+
+version 2020_02_25 :
+====================
+- Integrate Firebase
+- Update the build tools to 3.5.3
+- Improve the documentation with more videos.
+
+
+version 2019_11_23 :
+====================
+- Fix the backbutton issue : return to the back screen.
+- Fix button play to respect rules of Ads.
+- Add more security to the game.
+- Improve the loading time.
+- Update the build tools to 3.5.2
+
+version 2019_08_15 :
+====================
+- resolve the problem Google: "we don’t allow: Ads that aren’t clearly labeled"
+- integrate API-29
+
+version 2019_07_29 :
+=================
+- Fix problems with the new version of Android Studio
+- Fix sound problems
+
+version 2019_06_17 :
+=================
+- First publish on code canyon
+
+version 2018_10_01 :
+================
+start of the project
